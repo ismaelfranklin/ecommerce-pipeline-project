@@ -25,7 +25,7 @@ ecommerce-pipeline-project/
 
 ## ⚙️ Tecnologias utilizadas
 
-- 🦍 **Python** para extração e transformação dos dados
+- 🐍 **Python** para extração e transformação dos dados
 - 📆 **Pandas** para manipulação tabular
 - 🎃 **MongoDB** como banco de dados NoSQL alternativo
 - ☁️ **Google BigQuery** para armazenamento e análise escalável
