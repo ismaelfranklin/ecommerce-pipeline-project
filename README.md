@@ -120,6 +120,6 @@ Desenvolvido por **Ismael Franklin (Frank)**\
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/ismaelfranklin/ecommerce-pipeline-project/blob/main/dashboard/Screenshot%202025-07-06%20at%2021.41.49.png)
 
 
